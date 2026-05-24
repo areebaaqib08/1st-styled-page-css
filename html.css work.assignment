@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ARYZEL CREATION HOUSE</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-color #pink;
+    }
+
+    /* HEADER */
+    header {
+        background-color: aqua;
+        height: 250px;
+        padding: 20px;
+        border-radius: 0 0 20px 20px;
+        text-align: center;
+    }
+
+    header img {
+        width: 80px;
+        border-radius: 50%;
+    }
+
+    header h1 {
+        margin-top: 10px;
+        color: black;
+    }
+
+    /* SECTION */
+    section {
+        background-color: whitesmoke;
+        margin: 20px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .text-style {
+        text-align: center;
+        color: darkblue;
+        font-size: 18px;
+    }
+
+    .section-text {
+        color: #333;
+        text-align: justify;
+    }
+
+    /* FOOTER */
+    footer {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 15px;
+        margin-top: 20px;
+    }
+
+</style>
+</head>
+
+<body>
+
+<header>
+    <img src="Tesla Laptops/Downloads/WhatsApp Image 2026-02-06 at 4.27.41 PM.jpeg" alt="Logo AC">
+    <h1>My Website Header</h1>
+</header>
+
+<section>
+    <h2 class="text-style">Welcome ARYZEL STORE</h2>
+    
+    <p class="section-text">
+        This is FOR U. Here you caN BUY ANYTHING YOU WANT. 
+        This store give u branded variety in cheapest price.
+    </p>
+
+    <p class="text-style">
+        Join with us and enjoy ur shopping.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 My Website | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
